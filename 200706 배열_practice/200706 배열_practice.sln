@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "200706 배열_practice", "200706 배열_practice.vcxproj", "{8D505955-0DFC-417E-846A-F16732F50ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Debug|x64.ActiveCfg = Debug|x64
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Debug|x64.Build.0 = Debug|x64
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Debug|x86.Build.0 = Debug|Win32
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Release|x64.ActiveCfg = Release|x64
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Release|x64.Build.0 = Release|x64
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Release|x86.ActiveCfg = Release|Win32
+		{8D505955-0DFC-417E-846A-F16732F50ED3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5577BC-D943-4D3E-A6B6-FEF0F529EBFA}
+	EndGlobalSection
+EndGlobal
